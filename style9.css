@@ -1,0 +1,75 @@
+
+.main{
+background-image:url(r.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 80vh;
+padding-top: 200px;
+
+}
+.top{
+background-color: rgb(255, 255, 255);
+text-align: center;
+height: 300px;
+width: 250px;
+border-radius: 4px;
+margin-left: 370px;
+padding-top: 10px;
+
+
+
+}
+h1{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-bottom: 20px;
+}
+button{
+width: 150px;
+height: 25px;
+background-color:rgb(21, 236, 21);
+color: login;
+text-decoration-line: none;
+border-radius: 2.5px;
+font-size: 15px;
+border: none;
+
+}
+input{
+height: 27px;
+width: 200px;
+border: 1px solid;
+border-radius: 3px;
+
+
+}
+.rupesh{
+    text-decoration-line: none;
+    color: rgb(37, 34, 34);
+    
+}
+p{
+margin-right: 85px;
+}
+.meta{
+ text-decoration-line:none ;
+ color: black;
+}
+i{
+position:relative;
+top: 2px;
+left: 25px;
+}
+::placeholder{
+    margin-left: 100px;
+
+}
+input::placeholder{
+position: relative;
+left: 30px;
+}
+i.fa-lock{
+position: relative;
+
+left: 25px;
+
+}
